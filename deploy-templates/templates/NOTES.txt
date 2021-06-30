@@ -1,1 +1,0 @@
-1. Application java-gradle-java11 has been successfully deployed!!
